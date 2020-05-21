@@ -9,4 +9,4 @@ The [DMIS GitHub repository for BioBERT](https://github.com/dmis-lab/biobert) pr
 Please see the LICENSE file for details. Downloading the weights indicates your acceptance of our disclaimer.
 
 ## Contact information
-For help or issues using the pre-trained weights, please submit a GitHub issue. We only used our pretrained models for question answering so far, so we most likely cannot help with other tasks. For more general questions about BioBERT, please refer to the [DMIS GitHub repository for BioBERT](https://github.com/dmis-lab/biobert).
+For help or issues using the pre-trained weights, please submit a GitHub issue. We only used our pre-trained models for question answering so far, so we most likely cannot help with other tasks. For more general questions about BioBERT, please refer to the [DMIS GitHub repository for BioBERT](https://github.com/dmis-lab/biobert).
