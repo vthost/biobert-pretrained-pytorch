@@ -36,7 +36,6 @@ You should be able to run the models using the code from [Hugging Face](https://
   
   def __init__ (in BertForQuestionAnswering)
   >     # name needs to correspond to variable in pretrained tf model to get weights correctly initialized
-  >     # add embedding sizes
   >     self.classifier = nn.Linear(config.hidden_size, config.num_labels)
   >     self.activation = nn.Sigmoid()
   
