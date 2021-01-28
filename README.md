@@ -23,7 +23,7 @@ You should be able to run the models using the code from [Hugging Face](https://
   def main
   >     # Evaluate
   >     # result =
-  >     evaluate(args, model, tokenizer, prefix=global_step, tokenizer2=tokenizer2)  # VT
+  >     evaluate(args, model, tokenizer, prefix=global_step)  
 
   >     # result = dict((k + ('_{}'.format(global_step) if global_step else ''), v) for k, v in result.items())
   >     # results.update(result)
